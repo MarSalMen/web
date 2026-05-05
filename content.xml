@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505223307WEGI69</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505223307NDF24Q</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>&quot;Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas&quot;.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value> Situación de Aprendizaje para el Ciclo Formativo Superior de Educación Infantil en el módulo de Didáctica de la Educación Infantil.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marta Salazar Méndez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778001001825</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-3yw6yncx7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>&quot;Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas&quot;. Situación de Aprendizaje para el Ciclo Formativo Superior de Educación Infantil en el módulo de Didáctica de la Educación Infantil</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>&quot;Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas&quot;. Situación de Aprendizaje para el Ciclo Formativo Superior de Educación Infantil en el módulo de Didáctica de la Educación Infantil</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>&quot;Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas&quot;. Situación de Aprendizaje para el Ciclo Formativo Superior de Educación Infantil en el módulo de Didáctica de la Educación Infantil</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-3yw6yncx7</odePageId>
+      <odeBlockId>block-1777994703277-f3qogb71w</odeBlockId>
+      <blockName>Descripción de la Situación de Aprendizaje.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-3yw6yncx7</odePageId>
+          <odeBlockId>block-1777994703277-f3qogb71w</odeBlockId>
+          <odeIdeviceId>idevice-1777994703274-rgbdgukhl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 220px;">
+<tbody>
+<tr style="height: 56.6667px;">
+<td style="height: 56.6667px; width: 99.9434%; text-align: justify;" colspan="2">TÍTULO: Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas.<br /></td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="height: 32.6667px; width: 99.9434%;" colspan="2">CICLO FORMATIVO: Ciclo Formativo de Grado Superior en Educación Infantil<br /></td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 57.3503%; height: 32.6667px;">MÓDULO: Didáctica de la Educación infantil</td>
+<td style="width: 42.5932%; height: 32.6667px;">CURSO: 1º</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="height: 32.6667px; width: 99.9434%;" colspan="2">
+<p>TEMPORALIZACIÓN: 1O SESIONES (2º Mitad del 2º Trimestre)</p>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="height: 32.6667px; width: 99.9434%;" colspan="2">RELACIÓN INTERDISCIPLINAR: Proyecto Intermodular, Autonomía personal y salud infantil, Digitalización aplicada al sistema productivo.<br /></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>AGRUPAMIENTOS:</p>
+<ul>
+<li>GRUPOS HETEROGÉNEOS</li>
+<li>GRAN GRUPO</li>
+<li>TRABAJO INDIVIDUAL</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>ORGANIZACIÓN ESPACIAL:</p>
+<p>Horizontal agrupada en grupos de 4 o 6</p>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="height: 32.6667px; width: 99.9434%;" colspan="2">
+<p>PRODUCTOS Y HERRAMIENTAS DIGITALES:</p>
+<ul>
+<li>INFOGRAFÍA (GENIALLY O CANVA)</li>
+<li>VIDEO O PODCAST ( CAPCUT O CLIPCHAMP/ AUDACITY O SPOTIFY CREATORS)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777994703274-rgbdgukhl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 220px;\">\n<tbody>\n<tr style=\"height: 56.6667px;\">\n<td style=\"height: 56.6667px; width: 99.9434%; text-align: justify;\" colspan=\"2\">TÍTULO: Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas.<br /></td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"height: 32.6667px; width: 99.9434%;\" colspan=\"2\">CICLO FORMATIVO: Ciclo Formativo de Grado Superior en Educación Infantil<br /></td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 57.3503%; height: 32.6667px;\">MÓDULO: Didáctica de la Educación infantil</td>\n<td style=\"width: 42.5932%; height: 32.6667px;\">CURSO: 1º</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"height: 32.6667px; width: 99.9434%;\" colspan=\"2\">\n<p>TEMPORALIZACIÓN: 1O SESIONES (2º Mitad del 2º Trimestre)</p>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"height: 32.6667px; width: 99.9434%;\" colspan=\"2\">RELACIÓN INTERDISCIPLINAR: Proyecto Intermodular, Autonomía personal y salud infantil, Digitalización aplicada al sistema productivo.<br /></td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p>AGRUPAMIENTOS:</p>\n<ul>\n<li>GRUPOS HETEROGÉNEOS</li>\n<li>GRAN GRUPO</li>\n<li>TRABAJO INDIVIDUAL</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\">\n<p>ORGANIZACIÓN ESPACIAL:</p>\n<p>Horizontal agrupada en grupos de 4 o 6</p>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"height: 32.6667px; width: 99.9434%;\" colspan=\"2\">\n<p>PRODUCTOS Y HERRAMIENTAS DIGITALES:</p>\n<ul>\n<li>INFOGRAFÍA (GENIALLY O CANVA)</li>\n<li>VIDEO O PODCAST ( CAPCUT O CLIPCHAMP/ AUDACITY O SPOTIFY CREATORS)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-3yw6yncx7</odePageId>
+      <odeBlockId>block-1777999743946-5p3j70q5e</odeBlockId>
+      <blockName>Descripción de los Productos.</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-3yw6yncx7</odePageId>
+          <odeBlockId>block-1777999743946-5p3j70q5e</odeBlockId>
+          <odeIdeviceId>idevice-1777999743945-yxmy5895k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En esta Situación de Aprendizaje se van a exigir dos productos al alumnado como parte de las actividades de desarrollo y consolidación. Serán evaluables ( a través de una rúbrica de evaluación) y se realizarán en grupos heterogéneos de 4/6 miembros, asegurando diversidad en el nivel de competencias digitales de los integrantes de cada equipo. Para la realización de estas actividades se propondrán distintas herramientas digitales. Los productos se compartirán con el resto del grupo-clase a través de Teams y serán expuestos/ emitidos en el aula de forma presencial, reservándose dos sesiones para ello.</p>
+<p style="text-align: justify;">PRODUCTOS DIGITALES:</p>
+<ul>
+<li style="text-align: justify;">Realización de una<strong> Infografía </strong>que recoja las aportaciones de los distintos autores trabajados previamente en el aula a través de la explicación en gran grupo (Actividad de desarrollo). Se realizará con herramientas como Genially o Canva.</li>
+<li style="text-align: justify;">Realización de un <strong>Video o Podcast</strong> monotemático como actividad de consolidación y ampliación, a cerca de una metodología concreta propuesta por alguno de los representantes de la nueva escuela. Se presentará como un reto en el cual son directores de una escuela  con una metodología concreta y tienen que presentar en que consiste esta metodología a las familias y sus principales beneficios. Se realizará con herramientas como CapCut o Clipchamp.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999743945-yxmy5895k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En esta Situación de Aprendizaje se van a exigir dos productos al alumnado como parte de las actividades de desarrollo y consolidación. Serán evaluables ( a través de una rúbrica de evaluación) y se realizarán en grupos heterogéneos de 4/6 miembros, asegurando diversidad en el nivel de competencias digitales de los integrantes de cada equipo. Para la realización de estas actividades se propondrán distintas herramientas digitales. Los productos se compartirán con el resto del grupo-clase a través de Teams y serán expuestos/ emitidos en el aula de forma presencial, reservándose dos sesiones para ello.</p>\n<p style=\"text-align: justify;\">PRODUCTOS DIGITALES:</p>\n<ul>\n<li style=\"text-align: justify;\">Realización de una<strong> Infografía </strong>que recoja las aportaciones de los distintos autores trabajados previamente en el aula a través de la explicación en gran grupo (Actividad de desarrollo). Se realizará con herramientas como Genially o Canva.</li>\n<li style=\"text-align: justify;\">Realización de un <strong>Video o Podcast</strong> monotemático como actividad de consolidación y ampliación, a cerca de una metodología concreta propuesta por alguno de los representantes de la nueva escuela. Se presentará como un reto en el cual son directores de una escuela  con una metodología concreta y tienen que presentar en que consiste esta metodología a las familias y sus principales beneficios. Se realizará con herramientas como CapCut o Clipchamp.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-htecytdg7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-htecytdg7</odePageId>
+      <odeBlockId>block-mosqyl51-01i9yp9l6</odeBlockId>
+      <blockName>Justificación de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-htecytdg7</odePageId>
+          <odeBlockId>block-mosqyl51-01i9yp9l6</odeBlockId>
+          <odeIdeviceId>idevice-mosqyl52-23m46n4tt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta situación de aprendizaje se justifica desde la necesidad de que el alumnado del ciclo formativo de Educación Infantil comprenda en profundidad los fundamentos pedagógicos que sustentan la práctica educativa actual. El conocimiento de las aportaciones de los pedagogos de la Escuela Nueva —como María Montessori, Jean Piaget, Lev Vygotsky o John Dewey— permite al futuro profesional no solo conocer metodologías activas, sino entender su origen, evolución y sentido.</p>
+<p style="text-align: justify;">En el contexto actual, caracterizado por cambios sociales, tecnológicos y culturales constantes, la educación infantil requiere profesionales capaces de diseñar intervenciones educativas basadas en principios pedagógicos sólidos, adaptadas a la diversidad del alumnado y centradas en el desarrollo integral del niño y la niña.</p>
+<p style="text-align: justify;">Asimismo, esta situación de aprendizaje responde a lo establecido en el currículo del Principado de Asturias, fomentando un enfoque competencial donde el alumnado no se limita a memorizar teorías, sino que analiza, compara y aplica diferentes modelos metodológicos a situaciones reales de aula.</p>
+<p style="text-align: justify;">Además, el estudio de estos enfoques pedagógicos contribuye a desarrollar una mirada crítica hacia la práctica educativa, permitiendo al alumnado cuestionar modelos tradicionales y construir una identidad profesional fundamentada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mosqyl52-23m46n4tt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje se justifica desde la necesidad de que el alumnado del ciclo formativo de Educación Infantil comprenda en profundidad los fundamentos pedagógicos que sustentan la práctica educativa actual. El conocimiento de las aportaciones de los pedagogos de la Escuela Nueva —como María Montessori, Jean Piaget, Lev Vygotsky o John Dewey— permite al futuro profesional no solo conocer metodologías activas, sino entender su origen, evolución y sentido.</p>\n<p style=\"text-align: justify;\">En el contexto actual, caracterizado por cambios sociales, tecnológicos y culturales constantes, la educación infantil requiere profesionales capaces de diseñar intervenciones educativas basadas en principios pedagógicos sólidos, adaptadas a la diversidad del alumnado y centradas en el desarrollo integral del niño y la niña.</p>\n<p style=\"text-align: justify;\">Asimismo, esta situación de aprendizaje responde a lo establecido en el currículo del Principado de Asturias, fomentando un enfoque competencial donde el alumnado no se limita a memorizar teorías, sino que analiza, compara y aplica diferentes modelos metodológicos a situaciones reales de aula.</p>\n<p style=\"text-align: justify;\">Además, el estudio de estos enfoques pedagógicos contribuye a desarrollar una mirada crítica hacia la práctica educativa, permitiendo al alumnado cuestionar modelos tradicionales y construir una identidad profesional fundamentada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778001919717-kshm3mvxy</odePageId>
+  <odeParentPageId>page-mosqyl51-htecytdg7</odeParentPageId>
+  <pageName>Impacto deseado</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Impacto deseado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778001919717-kshm3mvxy</odePageId>
+      <odeBlockId>block-1778002000928-xsewma50i</odeBlockId>
+      <blockName>Impacto Deseado de la SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778001919717-kshm3mvxy</odePageId>
+          <odeBlockId>block-1778002000928-xsewma50i</odeBlockId>
+          <odeIdeviceId>idevice-1778002000926-tjgacxk4y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">El impacto esperado de esta situación de aprendizaje se concreta en varios niveles:</p>
+<p style="text-align: justify;">1. A nivel <strong>profesional </strong>se pretende que el alumnado:</p>
+<p style="text-align: justify;">Sea capaz de diseñar propuestas educativas fundamentadas en metodologías activas.<br />Integre principios como el aprendizaje significativo, la experimentación y el juego.<br />Desarrolle una identidad profesional reflexiva, evitando una práctica rutinaria o poco fundamentada.</p>
+<p style="text-align: justify;"><br />2. A nivel <strong>personal </strong>se pretende:<br />Fomentar el pensamiento crítico.<br />Desarrollar la capacidad de análisis y toma de decisiones pedagógicas.<br />Sensibilizar sobre la importancia de la infancia como etapa clave del desarrollo.</p>
+<p style="text-align: justify;"><br />3. A nivel<strong> social </strong>se pretende:<br />Formar profesionales capaces de contribuir a una educación más equitativa e inclusiva.<br />Impactar indirectamente en la mejora de la calidad educativa en la etapa infantil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002000926-tjgacxk4y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">El impacto esperado de esta situación de aprendizaje se concreta en varios niveles:</p>\n<p style=\"text-align: justify;\">1. A nivel <strong>profesional </strong>se pretende que el alumnado:</p>\n<p style=\"text-align: justify;\">Sea capaz de diseñar propuestas educativas fundamentadas en metodologías activas.<br />Integre principios como el aprendizaje significativo, la experimentación y el juego.<br />Desarrolle una identidad profesional reflexiva, evitando una práctica rutinaria o poco fundamentada.</p>\n<p style=\"text-align: justify;\"><br />2. A nivel <strong>personal </strong>se pretende:<br />Fomentar el pensamiento crítico.<br />Desarrollar la capacidad de análisis y toma de decisiones pedagógicas.<br />Sensibilizar sobre la importancia de la infancia como etapa clave del desarrollo.</p>\n<p style=\"text-align: justify;\"><br />3. A nivel<strong> social </strong>se pretende:<br />Formar profesionales capaces de contribuir a una educación más equitativa e inclusiva.<br />Impactar indirectamente en la mejora de la calidad educativa en la etapa infantil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778001957899-59v7jamza</odePageId>
+  <odeParentPageId>page-mosqyl51-htecytdg7</odeParentPageId>
+  <pageName>Relación con ODSs y Retos del S.XXI</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Relación con ODSs y Retos del S.XXI</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778001957899-59v7jamza</odePageId>
+      <odeBlockId>block-1778002563123-owgvxg3d5</odeBlockId>
+      <blockName>Relación con los ODS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778001957899-59v7jamza</odePageId>
+          <odeBlockId>block-1778002563123-owgvxg3d5</odeBlockId>
+          <odeIdeviceId>idevice-1778002563122-ndcrlrgv3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se relaciona especialmente con:</p>
+<p>ODS 4: Educación de calidad<br />Promueve una educación inclusiva, equitativa y de calidad desde las primeras etapas.<br />ODS 5: Igualdad de género<br />A través del análisis de prácticas educativas que eviten estereotipos desde la infancia.<br />ODS 10: Reducción de las desigualdades<br />Al preparar profesionales que atiendan a la diversidad y favorezcan la inclusión.<br />ODS 16: Paz, justicia e instituciones sólidas<br />Fomentando valores de convivencia, respeto y participación desde la educación infantil.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002563122-ndcrlrgv3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se relaciona especialmente con:</p>\n<p>ODS 4: Educación de calidad<br />Promueve una educación inclusiva, equitativa y de calidad desde las primeras etapas.<br />ODS 5: Igualdad de género<br />A través del análisis de prácticas educativas que eviten estereotipos desde la infancia.<br />ODS 10: Reducción de las desigualdades<br />Al preparar profesionales que atiendan a la diversidad y favorezcan la inclusión.<br />ODS 16: Paz, justicia e instituciones sólidas<br />Fomentando valores de convivencia, respeto y participación desde la educación infantil.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778001957899-59v7jamza</odePageId>
+      <odeBlockId>block-1778002664561-lwxgtfq9m</odeBlockId>
+      <blockName>Relación con los Retos del S. XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778001957899-59v7jamza</odePageId>
+          <odeBlockId>block-1778002664561-lwxgtfq9m</odeBlockId>
+          <odeIdeviceId>idevice-1778002664560-mu3j72z6u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje contribuye a abordar varios retos clave:</p>
+<p>✔️ Educación centrada en el alumno<br />Las metodologías de la Escuela Nueva anticipan modelos actuales donde el niño es protagonista del aprendizaje.</p>
+<p>✔️ Atención a la diversidad<br />Inspirada en enfoques como el de Lev Vygotsky, se fomenta una educación inclusiva y adaptada.</p>
+<p>✔️ Pensamiento crítico y aprendizaje autónomo<br />Siguiendo principios de John Dewey, se promueve aprender haciendo y reflexionando.</p>
+<p>✔️ Innovación educativa<br />El conocimiento de diferentes corrientes pedagógicas permite seleccionar estrategias adecuadas en contextos cambiantes.</p>
+<p>✔️ Competencia digital (de forma indirecta)<br />Aunque no es el eje central, se puede integrar en el análisis y diseño de propuestas metodológicas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002664560-mu3j72z6u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje contribuye a abordar varios retos clave:</p>\n<p>✔️ Educación centrada en el alumno<br />Las metodologías de la Escuela Nueva anticipan modelos actuales donde el niño es protagonista del aprendizaje.</p>\n<p>✔️ Atención a la diversidad<br />Inspirada en enfoques como el de Lev Vygotsky, se fomenta una educación inclusiva y adaptada.</p>\n<p>✔️ Pensamiento crítico y aprendizaje autónomo<br />Siguiendo principios de John Dewey, se promueve aprender haciendo y reflexionando.</p>\n<p>✔️ Innovación educativa<br />El conocimiento de diferentes corrientes pedagógicas permite seleccionar estrategias adecuadas en contextos cambiantes.</p>\n<p>✔️ Competencia digital (de forma indirecta)<br />Aunque no es el eje central, se puede integrar en el análisis y diseño de propuestas metodológicas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-15iudai0t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-15iudai0t</odePageId>
+      <odeBlockId>block-1778002953496-kjhpnuz2q</odeBlockId>
+      <blockName>Elementos Curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-15iudai0t</odePageId>
+          <odeBlockId>block-1778002953496-kjhpnuz2q</odeBlockId>
+          <odeIdeviceId>idevice-1778002953495-zj1qz4iyc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.957%; height: 210.625px;">
+<tbody>
+<tr style="height: 37.4583px;">
+<td style="width: 49.9681%; height: 37.4583px;">OBJETIVOS GENERALES DEL CICLO (contribución)</td>
+<td style="width: 49.9681%; height: 37.4583px;">B, C, H, I, J, K</td>
+</tr>
+<tr>
+<td style="width: 49.9681%;">COMPETENCIAS PROFESIONALES, PERSONALES Y SOCIALES (contribución)</td>
+<td style="width: 49.9681%;">A, B, C, I, H</td>
+</tr>
+<tr style="height: 98.25px;">
+<td style="width: 49.9681%; height: 98.25px;">
+<p>RESULTADOS DE APRENDIZAJE</p>
+<p>Y CRITERIOS DE EVALUACIÓN</p>
+</td>
+<td style="width: 49.9681%; height: 98.25px;">
+<p>RA1: G</p>
+<p>RA3: A, B, C y D</p>
+</td>
+</tr>
+<tr style="height: 37.4583px;">
+<td style="width: 49.9681%; height: 37.4583px;">CONTENIDOS</td>
+<td style="width: 49.9681%; height: 37.4583px;">
+<p>1. Determinación de estrategias metodológicas</p>
+<p>2. Modelos didácticos específicos de Educación Infantil.</p>
+<p>3. Aportaciones históricas que definen el proceso enseñanza- aprendizaje.</p>
+<p>4. Análisis de principios psicopedagógicos que sustentan los modelos más recientes de Educación Infantil.</p>
+<p>5. Comparación de diversas experiencias educativas en niños y niñas de 0 a 6 años.</p>
+</td>
+</tr>
+<tr style="height: 37.4583px;">
+<td style="width: 49.9681%; height: 37.4583px;">CONTENIDOS MÍNIMOS</td>
+<td style="width: 49.9681%; height: 37.4583px;">
+<p>1. Modelos didácticos específicos de Educación Infantil.</p>
+<p>2. Aportaciones históricas que definen el proceso enseñanza- aprendizaje.</p>
+<p>3. Análisis de principios psicopedagógicos que sustentan los modelos más recientes de Educación Infantil.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002953495-zj1qz4iyc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.957%; height: 210.625px;\">\n<tbody>\n<tr style=\"height: 37.4583px;\">\n<td style=\"width: 49.9681%; height: 37.4583px;\">OBJETIVOS GENERALES DEL CICLO (contribución)</td>\n<td style=\"width: 49.9681%; height: 37.4583px;\">B, C, H, I, J, K</td>\n</tr>\n<tr>\n<td style=\"width: 49.9681%;\">COMPETENCIAS PROFESIONALES, PERSONALES Y SOCIALES (contribución)</td>\n<td style=\"width: 49.9681%;\">A, B, C, I, H</td>\n</tr>\n<tr style=\"height: 98.25px;\">\n<td style=\"width: 49.9681%; height: 98.25px;\">\n<p>RESULTADOS DE APRENDIZAJE</p>\n<p>Y CRITERIOS DE EVALUACIÓN</p>\n</td>\n<td style=\"width: 49.9681%; height: 98.25px;\">\n<p>RA1: G</p>\n<p>RA3: A, B, C y D</p>\n</td>\n</tr>\n<tr style=\"height: 37.4583px;\">\n<td style=\"width: 49.9681%; height: 37.4583px;\">CONTENIDOS</td>\n<td style=\"width: 49.9681%; height: 37.4583px;\">\n<p>1. Determinación de estrategias metodológicas</p>\n<p>2. Modelos didácticos específicos de Educación Infantil.</p>\n<p>3. Aportaciones históricas que definen el proceso enseñanza- aprendizaje.</p>\n<p>4. Análisis de principios psicopedagógicos que sustentan los modelos más recientes de Educación Infantil.</p>\n<p>5. Comparación de diversas experiencias educativas en niños y niñas de 0 a 6 años.</p>\n</td>\n</tr>\n<tr style=\"height: 37.4583px;\">\n<td style=\"width: 49.9681%; height: 37.4583px;\">CONTENIDOS MÍNIMOS</td>\n<td style=\"width: 49.9681%; height: 37.4583px;\">\n<p>1. Modelos didácticos específicos de Educación Infantil.</p>\n<p>2. Aportaciones históricas que definen el proceso enseñanza- aprendizaje.</p>\n<p>3. Análisis de principios psicopedagógicos que sustentan los modelos más recientes de Educación Infantil.</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-15iudai0t</odePageId>
+      <odeBlockId>block-1778009394322-nchixajpf</odeBlockId>
+      <blockName>Secuenciación Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-15iudai0t</odePageId>
+          <odeBlockId>block-1778009394322-nchixajpf</odeBlockId>
+          <odeIdeviceId>idevice-1778009394322-lkpc01v1o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Actividades <strong>introductorias</strong>: Juego verdadero/falso ,Video Introductorio, explicación gran-grupo. (1 sesión)</p>
+<p style="text-align: justify;">Actividades de <strong>desarrollo</strong>: Explicación gran-grupo de las principales aportaciones de la pedagogía a la Educación Infantil y trabajo cooperativo en casa y en clase (creación Infografía y producto digital)  (5 sesiones)</p>
+<p style="text-align: justify;">Actividades de <strong>consolidación y profundización</strong>:</p>
+<p style="text-align: justify;">Presentación de las Infografías, Emisión de videos y podcast y Role playing donde se llevarán a cabo distintas actuaciones profesionales propias del perfil  desde distintas metodologías didácticas. (3 sesiones)</p>
+<p style="text-align: justify;">Actividades de<strong> repaso</strong>: Juegos variados (kahoot, Rosco, Memory...) Test y rutina de pensamiento "Antes pensaba/ Ahora pienso" (1 sesión)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778009394322-lkpc01v1o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Actividades <strong>introductorias</strong>: Juego verdadero/falso ,Video Introductorio, explicación gran-grupo. (1 sesión)</p>\n<p style=\"text-align: justify;\">Actividades de <strong>desarrollo</strong>: Explicación gran-grupo de las principales aportaciones de la pedagogía a la Educación Infantil y trabajo cooperativo en casa y en clase (creación Infografía y producto digital)  (5 sesiones)</p>\n<p style=\"text-align: justify;\">Actividades de <strong>consolidación y profundización</strong>:</p>\n<p style=\"text-align: justify;\">Presentación de las Infografías, Emisión de videos y podcast y Role playing donde se llevarán a cabo distintas actuaciones profesionales propias del perfil  desde distintas metodologías didácticas. (3 sesiones)</p>\n<p style=\"text-align: justify;\">Actividades de<strong> repaso</strong>: Juegos variados (kahoot, Rosco, Memory...) Test y rutina de pensamiento \"Antes pensaba/ Ahora pienso\" (1 sesión)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-56nlpexoo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-56nlpexoo</odePageId>
+      <odeBlockId>block-1778003290419-fe3tmxlah</odeBlockId>
+      <blockName>Metodologías Activas empleadas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-56nlpexoo</odePageId>
+          <odeBlockId>block-1778003290419-fe3tmxlah</odeBlockId>
+          <odeIdeviceId>idevice-1778003290418-3klxv6zbt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100.011%;">
+<tbody>
+<tr>
+<td style="width: 99.8795%; text-align: center;"><strong>METODOLOGÍAS EMPLEADAS</strong></td>
+</tr>
+<tr>
+<td style="width: 99.8795%; text-align: justify;">
+<p>APRENDIZAJE BASADO EN JUEGOS (Rosco, Memory, Kahoot...)</p>
+<p>APRENDIZAJE COOPERATIVO (Creación de Productos Digitales en grupos heterogéneos)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 99.8795%;">VISUAL THINKING (Uso de infografías, Uso material expositivo en las explicaciones en gran grupo)</td>
+</tr>
+<tr>
+<td style="width: 99.8795%;">RUTINAS DE PENSAMIENTO Y DINÁMICAS DE GRUPO ("Role Playing", "Antes pensaba/Ahora pienso")</td>
+</tr>
+<tr>
+<td style="width: 99.8795%;">EXPLICACIÓN EN GRAN GRUPO (Participativo y con Material Audiovisual)</td>
+</tr>
+<tr>
+<td style="width: 99.8795%;"></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003290418-3klxv6zbt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100.011%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8795%; text-align: center;\"><strong>METODOLOGÍAS EMPLEADAS</strong></td>\n</tr>\n<tr>\n<td style=\"width: 99.8795%; text-align: justify;\">\n<p>APRENDIZAJE BASADO EN JUEGOS (Rosco, Memory, Kahoot...)</p>\n<p>APRENDIZAJE COOPERATIVO (Creación de Productos Digitales en grupos heterogéneos)</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.8795%;\">VISUAL THINKING (Uso de infografías, Uso material expositivo en las explicaciones en gran grupo)</td>\n</tr>\n<tr>\n<td style=\"width: 99.8795%;\">RUTINAS DE PENSAMIENTO Y DINÁMICAS DE GRUPO (\"Role Playing\", \"Antes pensaba/Ahora pienso\")</td>\n</tr>\n<tr>\n<td style=\"width: 99.8795%;\">EXPLICACIÓN EN GRAN GRUPO (Participativo y con Material Audiovisual)</td>\n</tr>\n<tr>\n<td style=\"width: 99.8795%;\"></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-hgpmvqxvc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-hgpmvqxvc</odePageId>
+      <odeBlockId>block-1778005611285-90vf77rsh</odeBlockId>
+      <blockName>Vinculación con proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-hgpmvqxvc</odePageId>
+          <odeBlockId>block-1778005611285-90vf77rsh</odeBlockId>
+          <odeIdeviceId>idevice-1778005611284-d3hhhz7xg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La Situación de Aprendizaje se puede vincular indirectamente con dos proyectos del centro en los que puede colaborar y de cuya dotación material se puede beneficiar. Se trata de los proyectos "Vicu TV" y "Radio al Cuadrado", la TV y Radio del centro educativo, pudiendo emitirse el contenido de los Podcast y de los Videos creados por el alumnado en dichos espacios y pudiendo aprovecharse los materiales de los que dispone el centro para la elaboración de ambos productos digitales. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005611284-d3hhhz7xg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La Situación de Aprendizaje se puede vincular indirectamente con dos proyectos del centro en los que puede colaborar y de cuya dotación material se puede beneficiar. Se trata de los proyectos \"Vicu TV\" y \"Radio al Cuadrado\", la TV y Radio del centro educativo, pudiendo emitirse el contenido de los Podcast y de los Videos creados por el alumnado en dichos espacios y pudiendo aprovecharse los materiales de los que dispone el centro para la elaboración de ambos productos digitales. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-cp6c2i01z</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-cp6c2i01z</odePageId>
+      <odeBlockId>block-1778004775792-00cck80qf</odeBlockId>
+      <blockName>Relación con las actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-cp6c2i01z</odePageId>
+          <odeBlockId>block-1778004775792-00cck80qf</odeBlockId>
+          <odeIdeviceId>idevice-1778004775791-2qmi2j7mf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta Situación de Aprendizaje no lleva asociada ninguna actividad complementaria o extraescolar, si bien, como mencionábamos anteriormente, existe una vinculación indirecta con dos proyectos del centro como son "Vicu Tv" y "Radio al Cuadrado", proyectos educativos enmarcados dentro de los ámbitos de la comunicación y la educación emprendedora, pudiendo plantearse la emisión del Podcast o del Video en la radio y televisión del centro respectivamente, como colaboración con estas actividades complementarias y extraescolares, así como hacer uso de los materiales y las instalaciones de las que el centro dispone para la realización de las mismas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778004775791-2qmi2j7mf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta Situación de Aprendizaje no lleva asociada ninguna actividad complementaria o extraescolar, si bien, como mencionábamos anteriormente, existe una vinculación indirecta con dos proyectos del centro como son \"Vicu Tv\" y \"Radio al Cuadrado\", proyectos educativos enmarcados dentro de los ámbitos de la comunicación y la educación emprendedora, pudiendo plantearse la emisión del Podcast o del Video en la radio y televisión del centro respectivamente, como colaboración con estas actividades complementarias y extraescolares, así como hacer uso de los materiales y las instalaciones de las que el centro dispone para la realización de las mismas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosqyl51-nktf70ahb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-nktf70ahb</odePageId>
+      <odeBlockId>block-1777993736132-sirlicmuv</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-nktf70ahb</odePageId>
+          <odeBlockId>block-1777993736132-sirlicmuv</odeBlockId>
+          <odeIdeviceId>idevice-1777993736128-skd9qgc1w</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas".</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marta Salazar Méndez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosqyl51-nktf70ahb</odePageId>
+      <odeBlockId>block-1778004725074-p6iglou52</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosqyl51-nktf70ahb</odePageId>
+          <odeBlockId>block-1778004725074-p6iglou52</odeBlockId>
+          <odeIdeviceId>idevice-1778004725074-qv9u0bmb4</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">"Arquitectos de la Educación Infantil: Un viaje por las aportaciones pedagógicas".</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Marta Salazar Méndez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
